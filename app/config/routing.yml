@@ -45,3 +45,8 @@ logout:
 
 login_check:
     pattern: /login_check
+
+pugx_badge_poser:
+    path: /
+    host: "poser.pugx.org"
+    schemes:  [https]
